@@ -5,7 +5,7 @@ anime & manga in discord
 ---
 
 projects
-- apathy
+- [apathy](https://apathy.rip/)
 - anilist data pipeline
 
 ---
